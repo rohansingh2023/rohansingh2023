@@ -42,8 +42,6 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansingh2023&show_icons=true&locale=en&layout=compact" alt="rohansingh2023" /></p>
-
 ## StreakStats 🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohansingh2023&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
