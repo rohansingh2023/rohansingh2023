@@ -9,8 +9,8 @@
 
 
 - 📫 How to reach me **rohan2023.singh@gmail.com**
-- 📫 Check out my [website](https://portfolio-two-delta-42.vercel.app/)
-
+- 📫 Check out my [website](https://portfolio-two-delta-42.vercel.app/)<br><br>
+  
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
@@ -20,8 +20,7 @@
 ✔ Currently engaged in exploring the depths of **Deep Learning**<br>
 ✔ Research Interests: **AGI** , **Theoretical Physics** 😊 <br>
 ✔ I do a lot of problem-Solving on **LeetCode** 😉<br>
-✔ Feel free to connect with me for **queries**/**work** 😎<br><br><br><br>
-
+✔ Feel free to connect with me for **queries**/**work** 😎<br><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
