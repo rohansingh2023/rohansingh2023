@@ -22,12 +22,12 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Callme: ***Rohan*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently pursuing an AI/DS degree from **VESIT** <br>
+✔ I’m Skilled in **Full-Stack Dev**, **Machine Learning**🥰<br>
+✔ I’m currently engaged in exploring the depths of **Deep Learning**<br>
+✔ I do a lot of problem-Solving on **LeetCode** 😉<br>
+✔ Feel free to connect with me for **queries**/**work** 😎<br><br><br><br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,10 +41,12 @@
 | Backend  |  NodeJs, ![Flask](http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black) FastAPI, GraphQL, TRPC, WebSockets  |
 | Databases  |   ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql) PostgreSQL, ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb) ![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)  |
 | App Development  |  Flutter, React Native, Android(Java)  |
-| DevOps  |  ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git) ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black) ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white) AWS, Netlify, Vercel  |
+| DevOps  |  ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git) ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white) AWS, Netlify, Vercel  |
 | Testing  |   Selenium, Jest, React-Testing Library  |
-| Languages  |  English, Hindi  |
-| Languages  |  English, Hindi  |
+| AI/ML  |  Numpy, Pandas, Scikit-Learn, Tensorflow, Pytorch  |
+| SASS  |  Firebase, Sanity, Supabase  |
+| Operating Systems  |  ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)  Windows  |
+| Tools  |  ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)  Jupyter Notebook |
   
 </div>
 
