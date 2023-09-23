@@ -14,10 +14,10 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***Rohan*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently pursuing an AI/DS degree from **VESIT** <br>
-✔ I’m Skilled in **Full-Stack Dev**, **Machine Learning**🥰<br>
-✔ I’m currently engaged in exploring the depths of **Deep Learning**<br>
+✔ Currently pursuing an AI/DS degree from **VESIT** <br>
+✔ Skilled in **Full-Stack Dev**, **Machine Learning**🥰<br>
+✔ Currently engaged in exploring the depths of **Deep Learning**<br>
+✔ Research Interests: **AGI** , **Theoretical Physics** 😊 <br>
 ✔ I do a lot of problem-Solving on **LeetCode** 😉<br>
 ✔ Feel free to connect with me for **queries**/**work** 😎<br><br><br><br>
 
