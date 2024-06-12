@@ -9,7 +9,7 @@
 
 
 - 📫 How to reach me **rohan2023.singh@gmail.com**
-- 📫 Check out my [website](https://portfolio-two-delta-42.vercel.app/)<br><br>
+- 📫 Check out my [portfolio](https://portfolio-two-delta-42.vercel.app/)<br><br>
   
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
