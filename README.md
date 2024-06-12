@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">I'm a Machine Learning and Deep Learning Enthusiast. I do Full Stack Web Development for Freelancing and building Real-World Projects.</h3>
+<h3 align="center">Computer Science and Theoretical Physics Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansingh2023&label=Profile%20views&color=0e75b6&style=flat" alt="rohansingh2023" /> </p>
 
