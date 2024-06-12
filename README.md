@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansingh2023&label=Profile%20views&color=0e75b6&style=flat" alt="rohansingh2023" /> </p>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning;Full%20Stack-eveloper;App%20Developer;Problem%20Solver&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning;Full%20Stack-Developer;App%20Developer;Problem%20Solver&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
